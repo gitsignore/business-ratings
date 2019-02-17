@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/business-ratings/static/css/main.eae1bc62.chunk.css"
   },
   {
-    "revision": "cfa112818c565bc83e20d4c6d389b840",
+    "revision": "f7d727a9b969879512ef185777b9b40a",
     "url": "/business-ratings/index.html"
   }
 ];
